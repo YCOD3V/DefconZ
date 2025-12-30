@@ -342,6 +342,7 @@ main {
   width: 42px;
   height: 42px;
   border-radius: 12px;
+  color: #fff;
   font-size: 20px;
   display: grid;
   place-items: center;
